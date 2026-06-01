@@ -6,3 +6,5 @@
 - chmod: alterar permissões
 - top: mostrar processos em tempo real
 - kill: terminar processos
+- htop: versão mehorada do top
+- pkill: matar processos por nome
