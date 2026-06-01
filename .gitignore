@@ -1,0 +1,19 @@
+# Ficheiros de ambiente
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# Chaves e tokens
+*.pem
+*.key
+
+# Temporários
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.pyc
