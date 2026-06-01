@@ -4,3 +4,5 @@
 - pwd: mostrar diretório atual
 - grep: procurar texto
 - chmod: alterar permissões
+- top: mostrar processos em tempo real
+- kill: terminar processos
